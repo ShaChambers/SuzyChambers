@@ -1,4 +1,6 @@
-### Hi there 👋
+### 😄 Pronouns: They/Them
+
+### 📫 How to reach me: [Discord](shashasha#3157) [LinkedIn](https://www.linkedin.com/in/sha-chambers/)
 
 <!--
 **SuzyChambers/SuzyChambers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
