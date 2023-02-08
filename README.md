@@ -1,4 +1,3 @@
-# 😄 Pronouns: They/Them
 
 ### 🔭 I’m currently working on [Chef-Gpt](https://github.com/csanchezwagenbach/chef-gpt)
 
