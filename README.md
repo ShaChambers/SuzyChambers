@@ -1,11 +1,11 @@
 
-### 🔭 I’m currently working on [Chef-Gpt](https://github.com/csanchezwagenbach/chef-gpt)
+### 🔭 I’m currently working on [ThreeJS Certification](https://threejs-journey.com/)
 
 ### 👯 I’m looking to collaborate on just about anything involving music or gaming!
 
 ### 🤔 I’m looking for help with understanding game development!
 
-### 📫 How to reach me: [Discord](shashasha#3157) [LinkedIn](https://www.linkedin.com/in/sha-chambers/) [Instagram](https://www.instagram.com/suzy2go/)
+### 📫 How to reach me: [Discord](shashasha#3157) [LinkedIn](https://www.linkedin.com/in/sha-chambers/)
 
 <!--
 **SuzyChambers/SuzyChambers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
